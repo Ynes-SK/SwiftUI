@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "NetworkingManager",
+        "repositoryURL": "https://github.com/Ynes-sk/NetworkingManager",
+        "state": {
+          "branch": "main",
+          "revision": "2c779052ca158580bcf6e00071dfbc5854bd60b8",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}

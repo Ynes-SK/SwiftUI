@@ -1,0 +1,26 @@
+[
+    {
+        "name": "John",
+        "designation": "Team Lead",
+        "email": "john@gmail.com",
+        "image": "images.jpeg"
+   },
+    {
+        "name": "Maria",
+        "designation": "Project Lead",
+        "email": "maria@gmail.com",
+        "image": "images.jpeg"
+   },
+    {
+        "name": "Martha",
+        "designation": "Trainee",
+        "email": "martha@gmail.com",
+        "image": "images.jpeg"
+   },
+    {
+        "name": "Susan",
+        "designation": "CEO",
+        "email": "susan@gmail.com",
+        "image": "images.jpeg"
+   }
+]
